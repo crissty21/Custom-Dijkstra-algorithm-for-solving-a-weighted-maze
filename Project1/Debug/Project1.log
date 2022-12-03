@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+D:\New folder (2)\kkep\maze conti Cindea cristian + interfata\maze conti Cindea cristian + interfata\maze\Project1\MyForm.h(98,7): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\New folder (2)\kkep\maze conti Cindea cristian + interfata\maze conti Cindea cristian + interfata\maze\Project1\MyForm.h(126,6): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\New folder (2)\kkep\maze conti Cindea cristian + interfata\maze conti Cindea cristian + interfata\maze\Project1\MyForm.h(166,6): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\New folder (2)\kkep\maze conti Cindea cristian + interfata\maze conti Cindea cristian + interfata\maze\Project1\MyForm.h(177,5): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  Source.cpp
+D:\New folder (2)\kkep\maze conti Cindea cristian + interfata\maze conti Cindea cristian + interfata\maze\Project1\MyForm.h(98,7): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\New folder (2)\kkep\maze conti Cindea cristian + interfata\maze conti Cindea cristian + interfata\maze\Project1\MyForm.h(126,6): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\New folder (2)\kkep\maze conti Cindea cristian + interfata\maze conti Cindea cristian + interfata\maze\Project1\MyForm.h(166,6): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\New folder (2)\kkep\maze conti Cindea cristian + interfata\maze conti Cindea cristian + interfata\maze\Project1\MyForm.h(177,5): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\New folder (2)\kkep\maze conti Cindea cristian + interfata\maze conti Cindea cristian + interfata\maze\Project1\Source.cpp(289,6): warning C4101: 'a': unreferenced local variable
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project1.vcxproj -> D:\New folder (2)\kkep\maze conti Cindea cristian + interfata\maze conti Cindea cristian + interfata\maze\Debug\Project1.exe

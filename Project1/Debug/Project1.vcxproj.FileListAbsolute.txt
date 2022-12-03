@@ -1,0 +1,10 @@
+D:\VS 2019 - proj\Project1\Project1\Debug\Project1.vcxprojAssemblyReference.cache
+D:\VS 2019 - proj\Project1\Project1\Debug\Project1.MyForm.resources
+D:\VS 2019 - proj\Project1\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Cristi\Desktop\Proiect final Cindea Cristian Nicolae OOP (1)\Proiect final Cindea Cristian Nicolae OOP\Project1\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\Cristi\Desktop\Proiect final Cindea Cristian Nicolae OOP (1)\Proiect final Cindea Cristian Nicolae OOP\Project1\Debug\Project1.MyForm.resources
+C:\Users\Cristi\Desktop\Proiect final Cindea Cristian Nicolae OOP (1)\Proiect final Cindea Cristian Nicolae OOP\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+D:\New folder (2)\kkep\maze conti Cindea cristian + interfata\maze conti Cindea cristian + interfata\maze\Project1\Debug\Project1.vcxproj.AssemblyReference.cache
+D:\New folder (2)\kkep\maze conti Cindea cristian + interfata\maze conti Cindea cristian + interfata\maze\Project1\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+D:\New folder (2)\kkep\maze conti Cindea cristian + interfata\maze conti Cindea cristian + interfata\maze\Project1\Debug\Project1.MyForm.resources
+D:\New folder (2)\kkep\maze conti Cindea cristian + interfata\maze conti Cindea cristian + interfata\maze\Project1\Debug\Project1.vcxproj.GenerateResource.cache
